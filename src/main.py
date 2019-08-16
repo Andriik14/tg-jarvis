@@ -7,7 +7,7 @@ def index():
   return "<h1>Hello</h1>"
 
 def main():
-  app.run("localhost", 8080)
+  app.run()
 
 
 if __name__ == "__main__":
